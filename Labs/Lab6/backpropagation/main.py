@@ -1,4 +1,4 @@
-from .train import train_xor
+from Labs.Lab6.backpropagation.train import train_xor
 
 def main():
     input_vector = [[0,0],[0,1],[1,0],[1,1]]
